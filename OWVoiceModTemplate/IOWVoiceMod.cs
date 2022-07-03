@@ -1,7 +1,6 @@
-﻿namespace OWVoiceModTemplate
+﻿namespace OWVoiceModTemplate;
+
+public interface IOWVoiceMod
 {
-    public interface IOWVoiceMod
-    {
-        void RegisterAssets(string assetsFolder);
-    }
+    void RegisterAssets(string assetsFolder);
 }
