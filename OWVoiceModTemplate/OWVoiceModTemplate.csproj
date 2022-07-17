@@ -26,4 +26,7 @@
   <ItemGroup>
     <Content Include="OWVoiceModTemplate.csproj.user" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
 </Project>
