@@ -4,6 +4,6 @@
     "name": "MOD_NAME",
     "uniqueName": "MOD_UNIQUE_NAME",
     "version": "1.0.0",
-    "owmlVersion": "2.5.2",
+    "owmlVersion": "2.7.0",
     "dependencies": [ "Krevace.VoiceMod" ]
 }
