@@ -1,4 +1,4 @@
-# OW Voice Acting Mod Addon Template
+# OW Voice Acting Mod Addon Template Base
 
 This is a template for making your own addon to the [Outer Wilds Voice Acting Mod](https://github.com/Krevace/ow-voice-mod)! (Still not yet complete). Why would you want to do this? You can swap the voices already in the mod with your own or even add custom voice lines if you're developing a mod that adds custom dialogue to the game.
 
