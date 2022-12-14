@@ -4,10 +4,10 @@ This is a template for making your own addon to the [Outer Wilds Voice Acting Mo
 
 # Guide
 
-If you're new to modding, check out [Raicuparta's mod template](https://github.com/Raicuparta/ow-mod-template) that goes through the basic changes you need to make to the template files and how to get your mod submitted to the database. 
-<br/>
+If you're new to modding, use this [template](https://github.com/Krevace/ow-voice-mod-template) instead.
+<br>
 
-For this template specifically, there's only a few things you need to know.
+There's only a few things you need to know for this template. 
 <br/>
 
 * Putting in your voice lines is incredibly easy. Just drag your files into the `assets` folder and build the project. If you don't know the filenaming convention, check out the [Discord](https://discord.gg/daHHqkKChm), where there's a complete video and text tutorial to guide you through the process.
