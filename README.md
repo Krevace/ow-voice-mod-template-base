@@ -4,7 +4,7 @@ This is a template for making your own addon to the [Outer Wilds Voice Acting Mo
 
 # Guide
 
-If you're new to modding, check out [OWML's docs](https://owml.outerwildsmods.com/guides/getting_started.html) that explain the process.
+If you're new to modding, check out [OWML's docs](https://owml.outerwildsmods.com/guides/getting-started/) that explain the process.
 <br/>
 
 * Putting in your voice lines is incredibly easy. Just drag your files into the `assets` folder and build the project. If you don't know the filenaming convention, check out the [Discord](https://discord.gg/daHHqkKChm), where there's a complete video and text tutorial to guide you through the process.
